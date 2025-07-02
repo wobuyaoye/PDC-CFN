@@ -4,4 +4,4 @@ Implementation of the paper "**Prototype-Driven Dual-Perspective CollaborativeCo
 
 #
 
-### 🚧 This repository is under preparation. The full source code will be released after the peer-review process is completed.
+### 🚧 This repository is under preparation. The full source code will be released at a later date.
