@@ -1,6 +1,6 @@
 # PDC-CFN
 
-Implementation of the paper "**Time-Frequency Perception Guided Multi-Level Contrastive Learning for Rotating Machinery Fault Diagnosis**"
+Implementation of the paper "**Prototype-Driven Dual-Perspective CollaborativeContrastive Fusion Network for Mechanical Fault Diagnosis under Limited Labeled Data**"
 
 #
 
