@@ -132,7 +132,7 @@ If you have any questions about this repository, feel free to contact me at: **1
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@article{shu2025time,
+@article{peng2026prototype,
   title={Prototype-Driven Dual-Perspective Collaborative Contrastive Fusion Network for Rotating Machinery Fault Diagnosis},
   author={Peng, Dazheng and Shu, Zhenqiu and Yu, Zhengtao},
   journal={Measurement},
