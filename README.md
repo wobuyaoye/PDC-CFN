@@ -133,9 +133,11 @@ If you find this work helpful, please consider citing:
 
 ```bibtex
 @article{peng2026prototype,
-  title={Prototype-Driven Dual-Perspective Collaborative Contrastive Fusion Network for Rotating Machinery Fault Diagnosis},
+  title={Prototype-driven dual-perspective collaborative contrastive fusion network for rotating machinery fault diagnosis},
   author={Peng, Dazheng and Shu, Zhenqiu and Yu, Zhengtao},
   journal={Measurement},
+  volume={283},
+  pages={122068},
   year={2026},
   publisher={Elsevier}
 }
